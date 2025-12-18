@@ -1,7 +1,7 @@
 # 电商 shopee 接口逆向工程
 该工程包含
 1. 请求头反爬参数解密（af-ac-enc-dat/af-ac-enc-sz-token/x-sap-ri/x-sap-sec）
-2. 自动模拟真人操作，避免账号被封控
+2. 账号封控处理逻辑
 
 # 反爬虫参数解密
 ![GitHub Logo](https://github.com/smart-luigi/shopee-reverse/blob/main/%E8%AF%B7%E6%B1%82%E5%A4%B4%E5%8F%82%E6%95%B0%E8%A7%A3%E5%AF%86.png)
