@@ -10,4 +10,4 @@
 ![GitHub Logo](https://github.com/smart-luigi/shopee-reverse/blob/main/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.png)
 
 # 现低价出售技术方案
-有需要的朋友可联系本人，联系方式： [Telegram@SuperLuigiMe](http://t.me/@SuperLuigiMe)
+有需要的朋友可联系本人，联系方式： [Telegram@SuperLuigiMe](https://t.me/@SuperLuigiMe)
